@@ -18,10 +18,22 @@ Syntax highlighted code block
 - Bulleted
 - List
 
+- Wow!
+- A bulleted
+- List!
+
 1. Numbered
 2. List
 
+1. Oh my!
+2. A numbered
+3. List
+
 **Bold** and _Italic_ and `Code` text
+
+**So here is some bold text**
+_And this is some italicized text_
+`And I suppose this must be code text`
 
 [Link](url) and ![Image](src)
 ```
